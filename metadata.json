@@ -1,0 +1,7 @@
+{
+  "name": "Dogitos Fast Food - Costos, Inventario y POS",
+  "description": "Sistema completo de gestión de costos, inventario, recetas, POS y contabilidad para Dogitos Fast Food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
